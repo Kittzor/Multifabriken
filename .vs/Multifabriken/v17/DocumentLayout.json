@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\Projekt\\Multifabriken\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87163F99-7EE1-44F0-BE49-A3410C6C470F}|Multifabriken\\Multifabriken.csproj|c:\\users\\chris\\desktop\\projekt\\multifabriken\\multifabriken\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87163F99-7EE1-44F0-BE49-A3410C6C470F}|Multifabriken\\Multifabriken.csproj|solutionrelative:multifabriken\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87163F99-7EE1-44F0-BE49-A3410C6C470F}|Multifabriken\\Multifabriken.csproj|c:\\users\\chris\\desktop\\projekt\\multifabriken\\multifabriken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87163F99-7EE1-44F0-BE49-A3410C6C470F}|Multifabriken\\Multifabriken.csproj|solutionrelative:multifabriken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projekt\\Multifabriken\\Multifabriken\\Car.cs",
+              "RelativeDocumentMoniker": "Multifabriken\\Car.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Projekt\\Multifabriken\\Multifabriken\\Car.cs",
+              "RelativeToolTip": "Multifabriken\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:27:42.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projekt\\Multifabriken\\Multifabriken\\Program.cs",
               "RelativeDocumentMoniker": "Multifabriken\\Program.cs",
@@ -30,7 +47,7 @@
               "RelativeToolTip": "Multifabriken\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T09:47:27.663Z",
+              "WhenOpened": "2024-11-12T10:25:19.058Z",
               "EditorCaption": ""
             }
           ]
