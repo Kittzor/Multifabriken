@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multifabriken")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e310e7de15f78237f9467a47a323a789aca4ab2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+971ab81a223b9a2d66e5a5681d89815507d8342e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multifabriken")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multifabriken")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
