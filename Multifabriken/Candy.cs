@@ -1,9 +1,9 @@
 class Candy
 {
     public string flavour { get; set; }
-    public string quantity { get; set; }
+    public int quantity { get; set; }
 
-    public Candy(string flavour, string quantity)
+    public Candy(string flavour, int quantity)
     {
         this.flavour = flavour;
         this.quantity = quantity;
