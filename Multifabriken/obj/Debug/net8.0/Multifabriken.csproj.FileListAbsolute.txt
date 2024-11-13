@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\obj\Debug\net8.0\Multifabriken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\obj\Debug\net8.0\Multifabriken.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\obj\Debug\net8.0\Multifabriken.AssemblyInfo.cs
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\obj\Debug\net8.0\Multifabriken.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\obj\Debug\net8.0\Multifabriken.sourcelink.json
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\bin\Debug\net8.0\Multifabriken.exe
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\bin\Debug\net8.0\Multifabriken.deps.json
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\bin\Debug\net8.0\Multifabriken.runtimeconfig.json
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\bin\Debug\net8.0\Multifabriken.dll
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\bin\Debug\net8.0\Multifabriken.pdb
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\obj\Debug\net8.0\Multifabriken.dll
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\obj\Debug\net8.0\refint\Multifabriken.dll
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\obj\Debug\net8.0\Multifabriken.pdb
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\obj\Debug\net8.0\Multifabriken.genruntimeconfig.cache
+C:\Users\chris\Desktop\Projekt\Multifabriken\Multifabriken\obj\Debug\net8.0\ref\Multifabriken.dll

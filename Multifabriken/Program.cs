@@ -2,8 +2,12 @@
 {
     internal class Program
     {
+        static List<object> orders = new List<object>();
+
         static void Main(string[] args)
         {
+            
+
             bool isRunning = true;
 
             while (isRunning)
@@ -21,23 +25,23 @@
                 switch (Console.ReadLine())
                 {
                     case "1":
-                        //add order car method
+                        OrderCar();
                         break;
 
                     case "2":
-                        // add order candy method
+                        OrderCandy();
                         break;
 
                     case "3":
-                        // add order pipe method
+                        OrderPipe();
                         break;
 
                     case "4":
-                        // add order oatmilk method
+                        OrderOatmilk();
                         break;
 
                     case "5":
-                        // show list
+                        ListOrders();
                         break;
 
                     case "6":
@@ -50,6 +54,65 @@
                         break;
                 }
             }
+        }
+
+        static void OrderCar()
+        {
+            Console.WriteLine("Ange registreringsnummer: ");
+            string regNumber = Console.ReadLine();
+            Console.WriteLine("Ange färg: ");
+            string color = Console.ReadLine();
+            Console.WriteLine("Ange modell: ");
+            string brand = Console.ReadLine();
+
+            Car car = new Car(regNumber, color, brand);
+            orders.Add(car);
+        }
+
+        static void OrderCandy()
+        {
+            Console.WriteLine("Ange smak: ");
+            string flavour = Console.ReadLine();
+            Console.WriteLine("Ange antal: ");
+            int quantity = int.Parse(Console.ReadLine());
+
+            Candy candy = new Candy(flavour, quantity);
+            orders.Add(candy);
+        }
+
+        static void OrderPipe()
+        {
+            Console.WriteLine("Ange diameter: ");
+            int diameter = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ange längd: ");
+            int length = int.Parse(Console.ReadLine());
+
+            Pipe pipe = new Pipe(diameter, length);
+            orders.Add(pipe);
+        }
+
+        static void OrderOatmilk()
+        {
+            Console.WriteLine("Ange fetthalt: ");
+            int fatContent = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ange litermängd: ");
+            int literAmount = int.Parse(Console.ReadLine());
+
+            Oatmilk oatmilk = new Oatmilk(fatContent, literAmount);
+            orders.Add(oatmilk);
+        }
+
+        static void ListOrders()
+        {
+            Console.Clear();
+            Console.WriteLine("Dina beställnigar: ");
+
+            foreach (var order in orders)
+            {
+                Console.WriteLine(order.ToString());
+            }
+            Console.WriteLine("Tryck på valfri tangent för att fortsätta.");
+            Console.ReadKey();
         }
     }
 }

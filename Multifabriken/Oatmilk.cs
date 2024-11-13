@@ -11,6 +11,6 @@ class Oatmilk
 
     public override string ToString()
     {
-        return $"Havremjölk - fetthalt: {fatcontent}%, litermängd: {literAmount} liter"
+        return $"Havremjölk - fetthalt: {fatContent}%, litermängd: {literAmount} liter";
     }
 }
